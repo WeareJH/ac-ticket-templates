@@ -3,8 +3,8 @@
 #Description of work carried out:
 Description here of work
 
-##Tested on: local/development staging (Delete as appropriate)
-##Link to pull request: https://
+##Tested on: local/development/staging (Delete as appropriate)
+##Link to pull request: https://github.com/WeareJH/
 ##Browser tested on: Chrome/Firefox/Safari  (Delete as appropriate)
  
 ##Testing steps undertaken:
